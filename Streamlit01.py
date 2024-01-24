@@ -60,6 +60,8 @@ ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
 
 if(st.button("แสดงข้อมูล")):
     st.pyplot(fig1)
+    st.button("ไม่แสดงข้อมูล")
+
 else:
     st.button("ไม่แสดงข้อมูล")
 
