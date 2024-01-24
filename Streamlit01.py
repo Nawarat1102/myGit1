@@ -12,7 +12,7 @@ with col1:
     st.image("https://en.m.wikipedia.org/wiki/File:Iris_versicolor_3.jpg")
 with col2:
     st.header("Verginica")
-    st.image("https://commons.wikimedia.org/wiki/Category:Silene_virginica")
+    st.image("https://en.m.wikipedia.org/wiki/File:Iris_virginica.jpg")
 with col3:
     st.header("Setosa")
     st.image("https://commons.wikimedia.org/wiki/File:Wild_iris_flower_iris_setosa.jpg")
