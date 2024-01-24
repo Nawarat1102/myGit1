@@ -15,4 +15,4 @@ with col2:
     st.image("https://commons.wikimedia.org/wiki/Category:Silene_virginica")
 with col3:
     st.header("Setosa")
-    st.image("https://en.wikipedia.org/wiki/Iris_setosa")
+    st.image("https://commons.wikimedia.org/wiki/File:Wild_iris_flower_iris_setosa.jpg")
