@@ -43,11 +43,14 @@ else:
 
 # Pie 
 labels = 'sepal.width', 'sepal.length', 'petal.width', 'petal.length'
+
 x1=df['sepal.width'].mean()
 x2=df['sepal.length'].mean()
 x3=df['petal.width'].mean()
 x4=df['petal.length'].mean()
+
 sizes = [x1, x2, x3, x4]
+
 explode = (0, 0.1, 0, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')
 
 fig1, ax1 = plt.subplots()
