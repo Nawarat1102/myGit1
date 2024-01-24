@@ -18,7 +18,7 @@ with col3:
     st.image("./img/Setosa.jpg")
 
 df=pd.read_csv("./data/iris.csv")
-st.write(df.head(10))
+#st.write(df.head(10))
 
 if(st.button("แสดงข้อมูลตัวอย่าง")):
     st.write(df.head(10))
