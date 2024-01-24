@@ -9,7 +9,7 @@ col1, col2, col3 = st.columns(3)
 
 with col1: 
     st.header("Versicolor")
-    st.image("./img/Vergicolor.jpg")
+    st.image("./img/Versicolor.jpg")
 with col2:
     st.header("Verginica")
     st.image("./img/Verginica.jpg")
